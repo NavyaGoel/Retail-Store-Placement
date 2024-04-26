@@ -19,8 +19,11 @@ This project introduces a groundbreaking methodology aimed at optimizing the str
 - **Reduced Competitive Pressure:** Minimizing proximity to competitors alleviates the intensity of competition, allowing businesses to operate more comfortably and sustainably in their respective markets.
   
 - **Increased Profitability:** With optimized store placements, businesses can expect to see improvements in profitability as they capitalize on strategic locations and minimize costs associated with direct competition.
-- 
+  
 ![image](https://github.com/NavyaGoel/Retail-Store-Placement/assets/168194840/d84aa27f-130e-43e5-82a0-cd56d3cff278)
+
+![image](https://github.com/NavyaGoel/Retail-Store-Placement/assets/168194840/8a95f344-a3a7-4466-b293-de0edbdc80d2)
+
 
 
 
